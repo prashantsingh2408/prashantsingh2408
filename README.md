@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I enjoy creating technologies and love open source projects. Its amazing to invente new technolgy on github with lot of tech enthusiasts. 
-🔭 Currently I am working on responsite web development in #devsbuddies organization.
+🔭 Currently I am working on responsive web development.
