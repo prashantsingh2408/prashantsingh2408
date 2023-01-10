@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 I enjoy creating technologies and love open source projects. Its amazing to invente new technolgy on github with lot of tech enthusiasts. 
 🔭 Currently I am working on responsive web development and Laravel, ruby on rails, pentesting(cyber security, kali).
 - 🌱 I’m currently learning Flutter
-- 💬 Ask me about Web development( Laravel, mySql, html, css, js) and python.
+- 💬 Ask me about Web development( Laravel, mySql, html, css, js) and python,cyber security.
