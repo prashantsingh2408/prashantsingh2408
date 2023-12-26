@@ -20,7 +20,7 @@ I enjoy creating technologies and love open source projects. Its amazing to inve
 - 🌱 I’m currently learning AI/ML
 - 💬 Ask me about Web development( Laravel, mySql, html, css, js) and python,cyber security.
 - 👯 we are looking to collaborate on
-story3 hackthon.
+story3 hackathon.
 - 📫 How to reach me:
   - email: prashantsingh2408@gmail.com
   - phone: 8417891491
