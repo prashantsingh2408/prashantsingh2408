@@ -24,3 +24,4 @@ story3 hackathon.
 - 📫 How to reach me:
   - email: prashantsingh2408@gmail.com
   - phone: 8417891491
+  - LinkedIn: https://www.linkedin.com/in/prashant2408
