@@ -19,8 +19,7 @@ I enjoy creating technologies and love open source projects. Its amazing to inve
 🔭 Currently I am working on responsive web development and Laravel, ruby on rails, pentesting(cyber security, kali).
 - 🌱 I’m currently learning AI/ML
 - 💬 Ask me about Web development( Laravel, mySql, html, css, js) and python,cyber security.
-- 👯 we are looking to collaborate on
-story3 hackathon.
+- 👯 we are looking to collaborate  [hackathon](https://hackathons-circle.vercel.app)
 - 📫 How to reach me:
   - email: prashantsingh2408@gmail.com
   - phone: 8417891491
