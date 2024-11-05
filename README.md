@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I enjoy creating technologies and love open source projects. Its amazing to invente new technolgy on github with lot of tech enthusiasts. 
-🔭 Currently I am working on responsive web development and Laravel, ruby on rails, pentesting(cyber security, kali).
-- 🌱 I’m currently learning AI/ML
 - 💬 Ask me about Web development( Laravel, mySql, html, css, js) and python,cyber security.
-- 👯 we are looking to collaborate  [hackathon](https://hackathons-circle.vercel.app)
+- 👯 we are looking to collaborate  on [hackathon](https://hackathons-circle.vercel.app)
 - 📫 How to reach me:
   - email: prashantsingh2408@gmail.com
   - phone: 8417891491
